@@ -1,0 +1,2 @@
+export const localUrl="http://localhost:3001";
+export const stripe_key="pk_test_51KtcQTFJ50BG2GSltkm4lfPaxH6c8raqCKt9hoBFpgAnJ9loSE8eWTU0PsTRV5wlAcgCY5n7ZMwMXfWg8FPwDPGC009SYAHTEk";
